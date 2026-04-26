@@ -203,6 +203,8 @@ export default function LandingPage() {
       buttons={[
         {
           text: "Contact Us",          href: "#contact"},
+        {
+          text: "Call Me: 9804080175",          href: "tel:9804080175"},
       ]}
     />
   </div>
